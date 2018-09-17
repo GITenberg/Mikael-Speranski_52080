@@ -1,0 +1,34 @@
+_repo: Mikael-Speranski_52080
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Forsgren, Eemil
+    gutenberg_agent_id: '46664'
+    url: http://www.gutenberg.org/2009/agents/46664
+creator:
+  author:
+    agent_name: Schybergson, Magnus Gottfrid
+    aliases:
+    - Schybergson, Magnus Gottfried
+    - Schybergson, M. G.
+    birthdate: 1851
+    deathdate: 1925
+    gutenberg_agent_id: '46663'
+    url: http://www.gutenberg.org/2009/agents/46663
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52080'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Statesmen -- Russia -- Biography'
+- !lcsh 'Speranski, Mikhail Mikhailovich, graf, 1772-1839'
+- !lcsh 'Russia -- Politics and government -- 1801-1917'
+- GITenberg
+title: Mikael Speranski
+url: http://www.gutenberg.org/ebooks/52080
